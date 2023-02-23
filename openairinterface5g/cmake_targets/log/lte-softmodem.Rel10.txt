@@ -1,0 +1,140 @@
+Scanning dependencies of target LFDS
+[  0%] Building C object CMakeFiles/LFDS.dir/home/osboxes/openairinterface5g/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_queue/lfds611_queue_query.c.o
+[  0%] Building C object CMakeFiles/LFDS.dir/home/osboxes/openairinterface5g/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_queue/lfds611_queue_delete.c.o
+Scanning dependencies of target ITTI
+[  0%] Building C object CMakeFiles/LFDS.dir/home/osboxes/openairinterface5g/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_queue/lfds611_queue_new.c.o
+[  0%] Building C object CMakeFiles/ITTI.dir/home/osboxes/openairinterface5g/common/utils/itti/intertask_interface.c.o
+[  0%] Building C object CMakeFiles/LFDS.dir/home/osboxes/openairinterface5g/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_queue/lfds611_queue_queue.c.o
+[  0%] Building C object CMakeFiles/LFDS.dir/home/osboxes/openairinterface5g/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_ringbuffer/lfds611_ringbuffer_delete.c.o
+Scanning dependencies of target S1AP_ENB
+[  0%] Building C object CMakeFiles/LFDS.dir/home/osboxes/openairinterface5g/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_ringbuffer/lfds611_ringbuffer_query.c.o
+[  0%] Building C object CMakeFiles/LFDS.dir/home/osboxes/openairinterface5g/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_ringbuffer/lfds611_ringbuffer_new.c.o
+[  0%] Building C object CMakeFiles/LFDS.dir/home/osboxes/openairinterface5g/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_ringbuffer/lfds611_ringbuffer_get_and_put.c.o
+[  0%] Building C object CMakeFiles/S1AP_ENB.dir/home/osboxes/openairinterface5g/openair3/S1AP/s1ap_eNB.c.o
+[  0%] Building C object CMakeFiles/LFDS.dir/home/osboxes/openairinterface5g/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_slist/lfds611_slist_delete.c.o
+[  0%] Building C object CMakeFiles/LFDS.dir/home/osboxes/openairinterface5g/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_slist/lfds611_slist_link.c.o
+[  0%] [  0%] Building C object CMakeFiles/LFDS.dir/home/osboxes/openairinterface5g/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_slist/lfds611_slist_get_and_set.c.o
+Building C object CMakeFiles/ITTI.dir/home/osboxes/openairinterface5g/common/utils/itti/intertask_interface_dump.c.o
+[  0%] Building C object CMakeFiles/LFDS.dir/home/osboxes/openairinterface5g/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_slist/lfds611_slist_new.c.o
+[  0%] Building C object CMakeFiles/LFDS.dir/home/osboxes/openairinterface5g/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_stack/lfds611_stack_delete.c.o
+[  0%] Building C object CMakeFiles/LFDS.dir/home/osboxes/openairinterface5g/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_stack/lfds611_stack_query.c.o
+[  0%] [  0%] Building C object CMakeFiles/S1AP_ENB.dir/home/osboxes/openairinterface5g/openair3/S1AP/s1ap_eNB_context_management_procedures.c.o
+Building C object CMakeFiles/ITTI.dir/home/osboxes/openairinterface5g/common/utils/itti/backtrace.c.o
+[  0%] Building C object CMakeFiles/LFDS.dir/home/osboxes/openairinterface5g/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_stack/lfds611_stack_new.c.o
+[  1%] Building C object CMakeFiles/ITTI.dir/home/osboxes/openairinterface5g/common/utils/itti/memory_pools.c.o
+[  1%] Building C object CMakeFiles/LFDS.dir/home/osboxes/openairinterface5g/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_stack/lfds611_stack_push_pop.c.o
+[  1%] Building C object CMakeFiles/S1AP_ENB.dir/home/osboxes/openairinterface5g/openair3/S1AP/s1ap_eNB_decoder.c.o
+[  1%] Building C object CMakeFiles/LFDS.dir/home/osboxes/openairinterface5g/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_freelist/lfds611_freelist_pop_push.c.o
+[  1%] Building C object CMakeFiles/LFDS.dir/home/osboxes/openairinterface5g/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_freelist/lfds611_freelist_new.c.o
+[  1%] Building C object CMakeFiles/ITTI.dir/home/osboxes/openairinterface5g/common/utils/itti/signals.c.o
+[  1%] [  2%] Building C object CMakeFiles/S1AP_ENB.dir/home/osboxes/openairinterface5g/openair3/S1AP/s1ap_eNB_encoder.c.o
+Building C object CMakeFiles/LFDS.dir/home/osboxes/openairinterface5g/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_freelist/lfds611_freelist_get_and_set.c.o
+[  2%] Building C object CMakeFiles/LFDS.dir/home/osboxes/openairinterface5g/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_freelist/lfds611_freelist_query.c.o
+[  2%] Building C object CMakeFiles/LFDS.dir/home/osboxes/openairinterface5g/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_freelist/lfds611_freelist_delete.c.o
+[  2%] Building C object CMakeFiles/S1AP_ENB.dir/home/osboxes/openairinterface5g/openair3/S1AP/s1ap_eNB_handlers.c.o
+[  2%] Building C object CMakeFiles/ITTI.dir/home/osboxes/openairinterface5g/common/utils/itti/timer.c.o
+[  2%] Building C object CMakeFiles/LFDS.dir/home/osboxes/openairinterface5g/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_liblfds/lfds611_liblfds_abstraction_test_helpers.c.o
+[  2%] Building C object CMakeFiles/LFDS.dir/home/osboxes/openairinterface5g/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_liblfds/lfds611_liblfds_aligned_free.c.o
+[  2%] Building C object CMakeFiles/LFDS.dir/home/osboxes/openairinterface5g/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_liblfds/lfds611_liblfds_aligned_malloc.c.o
+[  2%] Building C object CMakeFiles/LFDS.dir/home/osboxes/openairinterface5g/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_abstraction/lfds611_abstraction_free.c.o
+Linking C static library libITTI.a
+[  2%] [  2%] Built target ITTI
+Building C object CMakeFiles/LFDS.dir/home/osboxes/openairinterface5g/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_abstraction/lfds611_abstraction_malloc.c.o
+Linking C static library libLFDS.a
+[  2%] Built target LFDS
+[  2%] Building C object CMakeFiles/S1AP_ENB.dir/home/osboxes/openairinterface5g/openair3/S1AP/s1ap_eNB_itti_messaging.c.o
+[  2%] Building C object CMakeFiles/S1AP_ENB.dir/home/osboxes/openairinterface5g/openair3/S1AP/s1ap_eNB_management_procedures.c.o
+[  4%] Building C object CMakeFiles/S1AP_ENB.dir/home/osboxes/openairinterface5g/openair3/S1AP/s1ap_eNB_nas_procedures.c.o
+[  4%] Building C object CMakeFiles/S1AP_ENB.dir/home/osboxes/openairinterface5g/openair3/S1AP/s1ap_eNB_nnsf.c.o
+[  4%] Building C object CMakeFiles/S1AP_ENB.dir/home/osboxes/openairinterface5g/openair3/S1AP/s1ap_eNB_overload.c.o
+[  4%] Building C object CMakeFiles/S1AP_ENB.dir/home/osboxes/openairinterface5g/openair3/S1AP/s1ap_eNB_trace.c.o
+[  4%] Building C object CMakeFiles/S1AP_ENB.dir/home/osboxes/openairinterface5g/openair3/S1AP/s1ap_eNB_ue_context.c.o
+Scanning dependencies of target S1AP_LIB
+[  4%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/s1ap_decoder.c.o
+Linking C static library libS1AP_ENB.a
+[  4%] Built target S1AP_ENB
+Scanning dependencies of target HASHTABLE
+[  4%] Building C object CMakeFiles/HASHTABLE.dir/home/osboxes/openairinterface5g/common/utils/collection/hashtable/hashtable.c.o
+[  4%] Building C object CMakeFiles/HASHTABLE.dir/home/osboxes/openairinterface5g/common/utils/collection/hashtable/obj_hashtable.c.o
+Linking C static library libHASHTABLE.a
+[  4%] Built target HASHTABLE
+Scanning dependencies of target UTIL
+[  4%] Building C object CMakeFiles/UTIL.dir/home/osboxes/openairinterface5g/openair2/UTIL/CLI/cli.c.o
+Scanning dependencies of target RRC_LIB
+[  4%] Building C object CMakeFiles/UTIL.dir/home/osboxes/openairinterface5g/openair2/UTIL/CLI/cli_cmd.c.o
+[  4%] Building C object CMakeFiles/RRC_LIB.dir/CMakeFiles/Rel10/PagingRecordList.c.o
+[  4%] Building C object CMakeFiles/RRC_LIB.dir/CMakeFiles/Rel10/SystemInformation-v8a0-IEs.c.o
+[  5%] Building C object CMakeFiles/UTIL.dir/home/osboxes/openairinterface5g/openair2/UTIL/CLI/cli_server.c.o
+[  5%] Building C object CMakeFiles/RRC_LIB.dir/CMakeFiles/Rel10/DRB-CountInfo.c.o
+[  5%] Building C object CMakeFiles/UTIL.dir/home/osboxes/openairinterface5g/openair2/UTIL/FIFO/pad_list.c.o
+[  5%] Building C object CMakeFiles/UTIL.dir/home/osboxes/openairinterface5g/openair2/UTIL/LISTS/list.c.o
+[  5%] Building C object CMakeFiles/RRC_LIB.dir/CMakeFiles/Rel10/SecurityAlgorithmConfig.c.o
+[  5%] Building C object CMakeFiles/UTIL.dir/home/osboxes/openairinterface5g/openair2/UTIL/LISTS/list2.c.o
+[  5%] Building C object CMakeFiles/UTIL.dir/home/osboxes/openairinterface5g/openair2/UTIL/LOG/log.c.o
+[  5%] Building C object CMakeFiles/RRC_LIB.dir/CMakeFiles/Rel10/CSFBParametersRequestCDMA2000.c.o
+[  5%] Building C object CMakeFiles/RRC_LIB.dir/CMakeFiles/Rel10/UE-CapabilityRequest.c.o
+[  5%] Building C object CMakeFiles/RRC_LIB.dir/CMakeFiles/Rel10/Paging-v920-IEs.c.o
+[  5%] Building C object CMakeFiles/RRC_LIB.dir/CMakeFiles/Rel10/per_opentype.c.o
+[  5%] Building C object CMakeFiles/RRC_LIB.dir/CMakeFiles/Rel10/Q-OffsetRange.c.o
+[  5%] Building C object CMakeFiles/RRC_LIB.dir/CMakeFiles/Rel10/DeltaTxD-OffsetListPUCCH-r10.c.o
+[  5%] Building C object CMakeFiles/UTIL.dir/home/osboxes/openairinterface5g/openair2/UTIL/LOG/vcd_signal_dumper.c.o
+[  5%] Building C object CMakeFiles/UTIL.dir/home/osboxes/openairinterface5g/openair2/UTIL/MATH/oml.c.o
+[  5%] Building C object CMakeFiles/RRC_LIB.dir/CMakeFiles/Rel10/ReportConfigToAddModList.c.o
+[  5%] Building C object CMakeFiles/RRC_LIB.dir/CMakeFiles/Rel10/SystemInformationBlockType5.c.o
+[  5%] Building C object CMakeFiles/UTIL.dir/home/osboxes/openairinterface5g/openair2/UTIL/MEM/mem_block.c.o
+[  6%] Building C object CMakeFiles/RRC_LIB.dir/CMakeFiles/Rel10/RRCConnectionReconfigurationComplete.c.o
+[  6%] Building C object CMakeFiles/RRC_LIB.dir/CMakeFiles/Rel10/CellsToAddModListCDMA2000.c.o
+[  6%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/s1ap_encoder.c.o
+[  6%] Building C object CMakeFiles/RRC_LIB.dir/CMakeFiles/Rel10/ARFCN-ValueGERAN.c.o
+[  6%] Building C object CMakeFiles/UTIL.dir/home/osboxes/openairinterface5g/openair2/UTIL/OCG/OCG.c.o
+[  6%] Building C object CMakeFiles/RRC_LIB.dir/CMakeFiles/Rel10/RAND-CDMA2000.c.o
+[  6%] Building C object CMakeFiles/UTIL.dir/home/osboxes/openairinterface5g/openair2/UTIL/OCG/OCG_create_dir.c.o
+[  6%] Building C object CMakeFiles/RRC_LIB.dir/CMakeFiles/Rel10/MCCH-MessageType.c.o
+[  6%] Building C object CMakeFiles/UTIL.dir/home/osboxes/openairinterface5g/openair2/UTIL/OCG/OCG_detect_file.c.o
+[  6%] Building C object CMakeFiles/RRC_LIB.dir/CMakeFiles/Rel10/per_decoder.c.o
+[  6%] Building C object CMakeFiles/RRC_LIB.dir/CMakeFiles/Rel10/CA-MIMO-ParametersDL-r10.c.o
+[  6%] Building C object CMakeFiles/UTIL.dir/home/osboxes/openairinterface5g/openair2/UTIL/OCG/OCG_generate_report.c.o
+[  6%] Building C object CMakeFiles/RRC_LIB.dir/CMakeFiles/Rel10/UplinkPowerControlCommonSCell-r10.c.o
+[  6%] Building C object CMakeFiles/UTIL.dir/home/osboxes/openairinterface5g/openair2/UTIL/OCG/OCG_parse_filename.c.o
+[  6%] Building C object CMakeFiles/RRC_LIB.dir/CMakeFiles/Rel10/FreqsPriorityGERAN.c.o
+[  6%] Building C object CMakeFiles/UTIL.dir/home/osboxes/openairinterface5g/openair2/UTIL/OCG/OCG_parse_XML.c.o
+[  6%] Building C object CMakeFiles/RRC_LIB.dir/CMakeFiles/Rel10/MeasParameters.c.o
+[  6%] Building C object CMakeFiles/RRC_LIB.dir/CMakeFiles/Rel10/NeighCellListCDMA2000-v920.c.o
+[  6%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/s1ap_xer_print.c.o
+[  6%] Building C object CMakeFiles/RRC_LIB.dir/CMakeFiles/Rel10/NeighCellSI-AcquisitionParameters-r9.c.o
+[  6%] Building C object CMakeFiles/RRC_LIB.dir/CMakeFiles/Rel10/MeasResultList2CDMA2000-r9.c.o
+[  6%] Building C object CMakeFiles/UTIL.dir/home/osboxes/openairinterface5g/openair2/UTIL/OCG/OCG_save_XML.c.o
+[  6%] Building C object CMakeFiles/RRC_LIB.dir/CMakeFiles/Rel10/PRACH-ConfigSCell-r10.c.o
+[  6%] Building C object CMakeFiles/RRC_LIB.dir/CMakeFiles/Rel10/MeasResultList2UTRA-r9.c.o
+[  6%] Building C object CMakeFiles/UTIL.dir/home/osboxes/openairinterface5g/openair2/UTIL/OMG/client_traci_OMG.c.o
+[  6%] Building C object CMakeFiles/RRC_LIB.dir/CMakeFiles/Rel10/DRB-Identity.c.o
+[  6%] Building C object CMakeFiles/UTIL.dir/home/osboxes/openairinterface5g/openair2/UTIL/OMG/common.c.o
+[  6%] Building C object CMakeFiles/RRC_LIB.dir/CMakeFiles/Rel10/ARFCN-ValueCDMA2000.c.o
+[  6%] Building C object CMakeFiles/UTIL.dir/home/osboxes/openairinterface5g/openair2/UTIL/OMG/grid.c.o
+[  6%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/s1ap_compare.c.o
+[  6%] Building C object CMakeFiles/RRC_LIB.dir/CMakeFiles/Rel10/UL-CyclicPrefixLength.c.o
+[  6%] Building C object CMakeFiles/UTIL.dir/home/osboxes/openairinterface5g/openair2/UTIL/OMG/id_manager.c.o
+[  6%] Building C object CMakeFiles/UTIL.dir/home/osboxes/openairinterface5g/openair2/UTIL/OMG/job.c.o
+[  6%] Building C object CMakeFiles/RRC_LIB.dir/CMakeFiles/Rel10/RRCConnectionReconfigurationComplete-v8a0-IEs.c.o
+[  6%] Building C object CMakeFiles/RRC_LIB.dir/CMakeFiles/Rel10/SupportedBandListUTRA-TDD128.c.o
+[  8%] Building C object CMakeFiles/RRC_LIB.dir/CMakeFiles/Rel10/NonContiguousUL-RA-WithinCC-r10.c.o
+[  9%] Building C object CMakeFiles/UTIL.dir/home/osboxes/openairinterface5g/openair2/UTIL/OMG/mobility_parser.c.o
+[  9%] Building C object CMakeFiles/UTIL.dir/home/osboxes/openairinterface5g/openair2/UTIL/OMG/omg.c.o
+[  9%] Building C object CMakeFiles/RRC_LIB.dir/CMakeFiles/Rel10/ReportConfigInterRAT.c.o
+[  9%] Building C object CMakeFiles/UTIL.dir/home/osboxes/openairinterface5g/openair2/UTIL/OMG/omg_hashtable.c.o
+[  9%] Building C object CMakeFiles/UTIL.dir/home/osboxes/openairinterface5g/openair2/UTIL/OMG/rwalk.c.o
+[  9%] Building C object CMakeFiles/RRC_LIB.dir/CMakeFiles/Rel10/UEInformationResponse-v1020-IEs.c.o
+[  9%] Building C object CMakeFiles/RRC_LIB.dir/CMakeFiles/Rel10/RLF-TimersAndConstants-r9.c.o
+[  9%] Building C object CMakeFiles/UTIL.dir/home/osboxes/openairinterface5g/openair2/UTIL/OMG/rwp.c.o
+[  9%] Building C object CMakeFiles/UTIL.dir/home/osboxes/openairinterface5g/openair2/UTIL/OMG/socket_traci_OMG.c.o
+make[3]: *** [CMakeFiles/UTIL.dir/home/osboxes/openairinterface5g/openair2/UTIL/OMG/socket_traci_OMG.c.o] Interrupt
+make[3]: *** [CMakeFiles/RRC_LIB.dir/CMakeFiles/Rel10/RLF-TimersAndConstants-r9.c.o] Interrupt
+make[2]: *** [CMakeFiles/UTIL.dir/all] Interrupt
+make[2]: *** [CMakeFiles/RRC_LIB.dir/all] Interrupt
+make[3]: *** [CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/s1ap_compare.c.o] Interrupt
+make[2]: *** [CMakeFiles/S1AP_LIB.dir/all] Interrupt
+make[1]: *** [CMakeFiles/lte-softmodem.dir/rule] Interrupt
+make: *** [lte-softmodem] Interrupt
+[1;34m** Trapped CTRL-C. Killing all subprocesses now...[00m
+first we send ctrl-c to program
+Now we force kill if that didn't work
